@@ -1,0 +1,34 @@
+<html>
+
+	<head>
+
+
+		<title>My Website</title>
+
+	<style>
+	h1 {
+  color: #EDEDEF;
+	}
+	
+
+	</style>	
+
+
+	</head>
+	
+	<h1> Page three of website<h1>
+
+
+	<Body>
+	<style>
+	body {background-color: #EDEDEF;}
+
+
+
+	</style>
+
+	</Body>
+
+
+
+</html>
